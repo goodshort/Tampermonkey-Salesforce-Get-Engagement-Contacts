@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         GetEngagementContacts
-// @namespace    
+// @namespace    https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts
 // @version      0.2
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/raw/main/GetEngagementContacts.user.js
+// @downloadURL  https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/raw/main/GetEngagementContacts.user.js
 // @description  Retrieves and copy the Engagement Contacts emails
 // @author       Adrien Biencourt
 // @match        https://*.lightning.force.com/lightning/*
