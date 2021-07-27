@@ -9,15 +9,15 @@ Second button can be found here: [Refresh All](https://github.com/goodshort)
 
 1. Go to the Engagement from which you would like to copy the Contacts from and click on `Engagement Contacts`
 
-![Click on Engagement Contacts](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/)
+![Click on Engagement Contacts](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/blob/main/workflow1.png)
 
 2. Once the tab is open click on the button `Get Engagement Contacts`
 
-![Click on Get Engagement Contacts](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/)
+![Click on Get Engagement Contacts](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/blob/main/workflow2.png)
 
 3. The contacts will automatically be copied to your clipboard and you can simply paste them in the `To:` field of the UDC case
 
-![Paste the contact in the To: field of the UDC case](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/)
+![Paste the contact in the To: field of the UDC case](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/blob/main/workflow3.png)
 
 ### Known issue
 
@@ -26,7 +26,7 @@ The copy function does not work well when you have multiple `Engagement Contacts
 ## Installation steps
 
 1. Download [Tampermonkey](https://www.tampermonkey.net/) for your browser
-2. Install the script by clicking on this [link](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/)
+2. Install the script by clicking on this [link](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts/raw/main/GetEngagementContacts.user.js)
 
 ## Updates
 
